@@ -11,4 +11,4 @@ Resume Builder is a web application that allows users to create professional res
 - HTML
 - CSS
 - JavaScript
-- React 
+- Reac
